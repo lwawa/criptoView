@@ -1,0 +1,29 @@
+# Arquivos temporários
+*.pyc
+__pycache__/
+
+# Virtualenv / Ambiente de desenvolvimento
+venv/
+env/
+
+# Dependências instaladas
+/.venv/
+/.env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos de build
+/build/
+/dist/
+/*.egg-info/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração
+*.swp
+*.swo
+*.ini
+*.env

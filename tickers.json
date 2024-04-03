@@ -1,0 +1,22 @@
+[
+    {
+        "simbolo": "BTC-USD",
+        "nome": "Bitcoin"
+    },
+    {
+        "simbolo": "GOOG",
+        "nome": "Albphabet Inc. (Google)"
+    },
+    {
+        "simbolo": "AAPL",
+        "nome": "Apple"
+    },
+    {
+        "simbolo": "PBR",
+        "nome": "Petrobras"
+    },
+    {
+        "simbolo": "BBD",
+        "nome": "Bradesco"
+    }
+]
