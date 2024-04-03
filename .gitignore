@@ -14,7 +14,6 @@ pip-delete-this-directory.txt
 
 # Arquivos de build
 /build/
-/dist/
 /*.egg-info/
 
 # Byte-compiled / optimized / DLL files
